@@ -1,0 +1,262 @@
+{
+    "0": {
+        "id": 1,
+        "type": 1,
+        "isEnabled": true,
+        "minVersion": "0.64",
+        "startTime": "2026-03-21T23:12:49.839Z",
+        "endTime": "2027-03-21T23:12:49.839Z",
+        "nameKey": "Block Dash 1v1 Peak",
+        "descriptionKey": ".gg/sgpeak",
+        "listItemBackgroundImage": "SharkTanic_Background_Image_Tournaments_Card",
+        "detailsPanelBackgroundImage": "SharkTanic_Background_Image_Tournaments",
+        "prizeBannerColour": "#005577",
+        "headerColour": "#007799",
+        "mapListGradientColourTop": "#004466",
+        "mapListGradientColourBottom": "#002233",
+        "listPriority": 1,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "maxRounds": 1,
+        "minMatchmakingSeconds": 2,
+        "entryCurrencyType": "gems",
+        "entryCurrencyCost": 50,
+        "areEmotesRestricted": false,
+        "prohibitedEmotes": [
+            8,
+            13,
+            55,
+            122,
+            123,
+            124
+        ],
+        "detailsPanelBorderColourTop": "#004080",
+        "detailsPanelBorderColourBottom": "#002244",
+        "colourData": {
+            "detailsPanelMainColour": "#003366",
+            "detailsPanelBorderColour": "#004080",
+            "headerGradientRight": "#003366",
+            "headerGradientLeft": "#005599",
+            "infoWidgetsGradientRight": "#003366",
+            "infoWidgetsGradientLeft": "#002244",
+            "infoWidgetsBorderColour": "#004080"
+        },
+        "rounds": [
+            {
+                "roundOrder": 1,
+                "maxPlayersToProgress": 1,
+                "minPlayersPerMatch": 2,
+                "maxPlayersPerMatch": 2,
+                "areLevelsRestricted": true,
+                "permittedLevels": [
+                    "level19_block"
+                ]
+            }
+        ],
+        "awards": [
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 1,
+                "type": "CROWNS",
+                "amount": 1
+            },
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 2,
+                "type": "TROPHIES",
+                "amount": 15
+            },
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 3,
+                "type": "TOURNAMENTXP",
+                "amount": 50
+            },
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 4,
+                "type": "XP",
+                "amount": 200
+            }
+        ],
+        "players": [],
+        "partys": []
+    },
+    "1": {
+        "id": 2,
+        "type": 1,
+        "isEnabled": true,
+        "minVersion": "0.64",
+        "startTime": "2026-03-21T23:12:49.839Z",
+        "endTime": "2027-03-21T23:12:49.839Z",
+        "nameKey": "Block Dash Legendary 1v1 Peak",
+        "descriptionKey": ".gg/sgpeak",
+        "listItemBackgroundImage": "STPBlockDash_Background_Image_Tournaments_Card",
+        "detailsPanelBackgroundImage": "STPBlockDash_Background_Image_Tournaments",
+        "prizeBannerColour": "#FFD700",
+        "headerColour": "#FFCC00",
+        "mapListGradientColourTop": "#FFEC8B",
+        "mapListGradientColourBottom": "#B8860B",
+        "listPriority": 0,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "maxRounds": 1,
+        "minMatchmakingSeconds": 2,
+        "entryCurrencyType": "gems",
+        "entryCurrencyCost": 50,
+        "areEmotesRestricted": false,
+        "prohibitedEmotes": [
+            8,
+            13,
+            55,
+            122,
+            123,
+            124
+        ],
+        "detailsPanelBorderColourTop": "#FFD700",
+        "detailsPanelBorderColourBottom": "#8B4513",
+        "colourData": {
+            "detailsPanelMainColour": "#DAA520",
+            "detailsPanelBorderColour": "#FFD700",
+            "headerGradientRight": "#B8860B",
+            "headerGradientLeft": "#FFD700",
+            "infoWidgetsGradientRight": "#8B4513",
+            "infoWidgetsGradientLeft": "#DAA520",
+            "infoWidgetsBorderColour": "#FFD700",
+            "backgroundGradientTop": "#FFEC8B",
+            "backgroundGradientBottom": "#B8860B"
+        },
+        "rounds": [
+            {
+                "roundOrder": 1,
+                "maxPlayersToProgress": 1,
+                "minPlayersPerMatch": 2,
+                "maxPlayersPerMatch": 2,
+                "areLevelsRestricted": true,
+                "permittedLevels": [
+                    "eventlevel13_block_legendary"
+                ]
+            }
+        ],
+        "awards": [
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 1,
+                "type": "CROWNS",
+                "amount": 1
+            },
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 2,
+                "type": "TROPHIES",
+                "amount": 15
+            },
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 3,
+                "type": "TOURNAMENTXP",
+                "amount": 50
+            },
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 4,
+                "type": "XP",
+                "amount": 200
+            }
+        ],
+        "players": [],
+        "partys": []
+    },
+    "2": {
+        "id": 3,
+        "type": 1,
+        "isEnabled": true,
+        "minVersion": "0.59",
+        "startTime": "2026-03-21T23:12:49.839Z",
+        "endTime": "2027-03-21T23:12:49.839Z",
+        "nameKey": "Laser Tracer 1v1 Peak",
+        "descriptionKey": ".gg/sgpeak",
+        "listItemBackgroundImage": "AbductedAvenue_Background_Image_Tournaments_Card",
+        "detailsPanelBackgroundImage": "AbductedAvenue_Background_Image_Tournaments",
+        "prizeBannerColour": "#33ffaaff",
+        "headerColour": "#33ff8fff",
+        "mapListGradientColourTop": "#33ff55ff",
+        "mapListGradientColourBottom": "#006647ff",
+        "listPriority": 0,
+        "minPlayers": 2,
+        "maxPlayers": 2,
+        "maxRounds": 1,
+        "minMatchmakingSeconds": 2,
+        "entryCurrencyType": "gems",
+        "entryCurrencyCost": 50,
+        "areEmotesRestricted": false,
+        "prohibitedEmotes": [
+            5,
+            7,
+            15
+        ],
+        "detailsPanelBorderColourTop": "#33ffb1ff",
+        "detailsPanelBorderColourBottom": "#086600ff",
+        "colourData": {
+            "detailsPanelMainColour": "#00cc77ff",
+            "detailsPanelBorderColour": "#33ffccff",
+            "headerGradientRight": "#07cc00ff",
+            "headerGradientLeft": "#33ffa0ff",
+            "infoWidgetsGradientRight": "#00cc22ff",
+            "infoWidgetsGradientLeft": "#0d9900ff",
+            "infoWidgetsBorderColour": "#33ff66ff"
+        },
+        "rounds": [
+            {
+                "roundOrder": 1,
+                "maxPlayersToProgress": 1,
+                "minPlayersPerMatch": 2,
+                "maxPlayersPerMatch": 2,
+                "areLevelsRestricted": true,
+                "permittedLevels": [
+                    "level15_laser"
+                ]
+            }
+        ],
+        "awards": [
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 1,
+                "type": "CROWNS",
+                "amount": 1
+            },
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 2,
+                "type": "TROPHIES",
+                "amount": 15
+            },
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 3,
+                "type": "TOURNAMENTXP",
+                "amount": 50
+            },
+            {
+                "placementRangeLowest": 1,
+                "placementRangeHighest": 1,
+                "awardId": 4,
+                "type": "XP",
+                "amount": 200
+            }
+        ],
+        "players": [],
+        "partys": []
+    }
+}
