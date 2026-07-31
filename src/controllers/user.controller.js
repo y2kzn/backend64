@@ -52,7 +52,7 @@ class controller {
                 
                 userDb = await users.create({
                     Id: nextId,
-                    Username: `Boxer#-${userId}`,
+                    Username: `StumbleKing<sup><color=orange>#${userId}`,
                     DeviceId: DeviceId,
                     StumbleId: crypto.generateStumbleId(),
                     Country: country,
